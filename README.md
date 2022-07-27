@@ -31,14 +31,14 @@ What is HEAD?
 
 First, you need a repository.
 
-<img src='init.jpeg' width="300" height="500">
+<img src='init.jpeg' width="300" height="450">
 
 
 Now what? There is an overwhelming number of git commands. How do you string them together into a practical workflow? One workflow, [GitHub Flow](https://githubflow.github.io/), is relatively simple and also one I happen to have experience using.
 
 Below is my attempt at a flowchart, spelling out how the typical commands can fit together, along with tasks completed using a service like Azure Devops or GitHub.
 
-<img src='git_flow.jpeg' width="500" height="1000">
+<img src='git_flow.jpeg' width="500" height="1200">
 
 Some notes on the above:
 - the branch name should be descriptive of the task, feature, or bugfix you intend to work on
